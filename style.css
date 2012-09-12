@@ -1,0 +1,46 @@
+h1 {
+  font-family: 'Ruika-09';
+}
+
+h2 {
+  font-family: 'Ruika-08';
+}
+
+.content {
+  font-family: 'Ruika-07';
+}
+
+code {
+  font-family: 'DejaVu Sans Mono';
+  line-height: 1.3;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #08c;
+}
+
+pre.sh_sourceCode .sh_string {
+  font-family: inherit;
+}
+
+.content.full-img {
+  margin: 0 !important;
+}
+
+.content.full-img > p {
+  margin: 0;
+}
+
+img[alt='ue-akeru'] {
+  margin-top: 200px;
+}
