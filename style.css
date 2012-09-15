@@ -41,6 +41,16 @@ pre.sh_sourceCode .sh_string {
   margin: 0;
 }
 
+.content.full-img > p.attribute {
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+  font-size: smaller;
+  background-color: #ddd;
+  padding: 0.5em 0.8em;
+  border-radius: 1em;
+}
+
 img[alt='ue-akeru'] {
   margin-top: 200px;
 }
